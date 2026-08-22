@@ -13,11 +13,11 @@ A synthetic Med Spa & Day Spa business dataset built to support business and fin
 
 **Seasonality is built into the data** — October and March are modeled as the slow season, December and January as peak season:
 
-![Monthly appointment volume](preview_assets/monthly_volume.png)
+<img width="1440" height="672" alt="monthly_volume" src="https://github.com/user-attachments/assets/33b7bb26-6e2f-45ab-a45e-700d2b6a2f66" />
 
 **Six esthetician archetypes drive realistic, distinguishable patterns** in the data — upsell behavior, retail attach rate, booking style, and more:
 
-![Esthetician archetypes](preview_assets/esthetician_archetypes.png)
+<img width="1520" height="736" alt="esthetician_archetypes" src="https://github.com/user-attachments/assets/d6e85443-aa88-4427-b576-e2f1a659a82f" />
 
 ---
 
